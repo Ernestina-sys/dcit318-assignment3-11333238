@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Mouse",
+    "quantity": 25,
+    "dateAdded": "2025-08-04T09:05:41.3411176+00:00"
+  },
+  {
+    "id": 2,
+    "name": "Mechanical Keyboard",
+    "quantity": 15,
+    "dateAdded": "2025-08-06T09:05:41.3514645+00:00"
+  },
+  {
+    "id": 3,
+    "name": "USB-C Cable",
+    "quantity": 50,
+    "dateAdded": "2025-08-09T09:05:41.3514691+00:00"
+  },
+  {
+    "id": 4,
+    "name": "Monitor Stand",
+    "quantity": 8,
+    "dateAdded": "2025-08-11T09:05:41.3514695+00:00"
+  },
+  {
+    "id": 5,
+    "name": "Webcam HD",
+    "quantity": 12,
+    "dateAdded": "2025-08-13T09:05:41.3514697+00:00"
+  }
+]
