@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\FinanceMana\FinanceMana\bin\Debug\net9.0\FinanceMana.exe
+C:\Users\ASUS\source\repos\FinanceMana\FinanceMana\bin\Debug\net9.0\FinanceMana.deps.json
+C:\Users\ASUS\source\repos\FinanceMana\FinanceMana\bin\Debug\net9.0\FinanceMana.runtimeconfig.json
+C:\Users\ASUS\source\repos\FinanceMana\FinanceMana\bin\Debug\net9.0\FinanceMana.dll
+C:\Users\ASUS\source\repos\FinanceMana\FinanceMana\bin\Debug\net9.0\FinanceMana.pdb
+C:\Users\ASUS\source\repos\FinanceMana\FinanceMana\obj\Debug\net9.0\FinanceMana.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\FinanceMana\FinanceMana\obj\Debug\net9.0\FinanceMana.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\FinanceMana\FinanceMana\obj\Debug\net9.0\FinanceMana.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\FinanceMana\FinanceMana\obj\Debug\net9.0\FinanceMana.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\FinanceMana\FinanceMana\obj\Debug\net9.0\FinanceMana.dll
+C:\Users\ASUS\source\repos\FinanceMana\FinanceMana\obj\Debug\net9.0\refint\FinanceMana.dll
+C:\Users\ASUS\source\repos\FinanceMana\FinanceMana\obj\Debug\net9.0\FinanceMana.pdb
+C:\Users\ASUS\source\repos\FinanceMana\FinanceMana\obj\Debug\net9.0\FinanceMana.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\FinanceMana\FinanceMana\obj\Debug\net9.0\ref\FinanceMana.dll
