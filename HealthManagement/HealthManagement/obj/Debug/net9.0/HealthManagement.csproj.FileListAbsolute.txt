@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\HealthManagement\HealthManagement\obj\Debug\net9.0\HealthManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\HealthManagement\HealthManagement\obj\Debug\net9.0\HealthManagement.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\HealthManagement\HealthManagement\obj\Debug\net9.0\HealthManagement.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\HealthManagement\HealthManagement\obj\Debug\net9.0\HealthManagement.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\HealthManagement\HealthManagement\bin\Debug\net9.0\HealthManagement.exe
+C:\Users\ASUS\source\repos\HealthManagement\HealthManagement\bin\Debug\net9.0\HealthManagement.deps.json
+C:\Users\ASUS\source\repos\HealthManagement\HealthManagement\bin\Debug\net9.0\HealthManagement.runtimeconfig.json
+C:\Users\ASUS\source\repos\HealthManagement\HealthManagement\bin\Debug\net9.0\HealthManagement.dll
+C:\Users\ASUS\source\repos\HealthManagement\HealthManagement\bin\Debug\net9.0\HealthManagement.pdb
+C:\Users\ASUS\source\repos\HealthManagement\HealthManagement\obj\Debug\net9.0\HealthManagement.dll
+C:\Users\ASUS\source\repos\HealthManagement\HealthManagement\obj\Debug\net9.0\refint\HealthManagement.dll
+C:\Users\ASUS\source\repos\HealthManagement\HealthManagement\obj\Debug\net9.0\HealthManagement.pdb
+C:\Users\ASUS\source\repos\HealthManagement\HealthManagement\obj\Debug\net9.0\HealthManagement.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\HealthManagement\HealthManagement\obj\Debug\net9.0\ref\HealthManagement.dll
