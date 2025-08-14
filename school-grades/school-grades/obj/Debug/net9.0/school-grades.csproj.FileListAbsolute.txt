@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\school-grades\school-grades\bin\Debug\net9.0\school-grades.exe
+C:\Users\ASUS\source\repos\school-grades\school-grades\bin\Debug\net9.0\school-grades.deps.json
+C:\Users\ASUS\source\repos\school-grades\school-grades\bin\Debug\net9.0\school-grades.runtimeconfig.json
+C:\Users\ASUS\source\repos\school-grades\school-grades\bin\Debug\net9.0\school-grades.dll
+C:\Users\ASUS\source\repos\school-grades\school-grades\bin\Debug\net9.0\school-grades.pdb
+C:\Users\ASUS\source\repos\school-grades\school-grades\obj\Debug\net9.0\school-grades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\school-grades\school-grades\obj\Debug\net9.0\school-grades.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\school-grades\school-grades\obj\Debug\net9.0\school-grades.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\school-grades\school-grades\obj\Debug\net9.0\school-grades.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\school-grades\school-grades\obj\Debug\net9.0\school-grades.dll
+C:\Users\ASUS\source\repos\school-grades\school-grades\obj\Debug\net9.0\refint\school-grades.dll
+C:\Users\ASUS\source\repos\school-grades\school-grades\obj\Debug\net9.0\school-grades.pdb
+C:\Users\ASUS\source\repos\school-grades\school-grades\obj\Debug\net9.0\school-grades.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\school-grades\school-grades\obj\Debug\net9.0\ref\school-grades.dll

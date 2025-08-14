@@ -1,0 +1,8 @@
+201, Valid Student, 85
+202, Missing Score
+203, Invalid Score, ABC
+, Empty ID, 75
+204, , 80
+205, Another Valid, 92
+
+206, Extra Field Student, 78, Extra, Data
